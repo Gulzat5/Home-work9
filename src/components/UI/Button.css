@@ -1,0 +1,12 @@
+button {
+  padding: 20px;
+  font-weight: 600;
+  color: aliceblue;
+  background-color: #4a026b;
+  border: none;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: #29043a;
+}

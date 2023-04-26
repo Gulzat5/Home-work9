@@ -1,0 +1,10 @@
+.chartContainer {
+  padding: 1rem;
+  border-radius: 12px;
+  background-color: #f8dfff;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  height: 10rem;
+  margin: 0px 10px 0px 10px;
+}
